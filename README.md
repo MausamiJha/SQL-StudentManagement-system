@@ -1,1 +1,2 @@
 # SQL-StudentManagement-system
+I’ve successfully completed a Student Management System project using SQL! This project involved creating databases, managing student performance data, and writing advanced queries for analysis like finding top performers and calculating averages. It was a great hands-on experience with real-world database management concepts. Looking forward to applying these skills to bigger challenges ahead!
